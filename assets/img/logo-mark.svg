@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-labelledby="logoMarkTitle">
+  <title id="logoMarkTitle">Escritório Júnior Contabilidade</title>
+  <defs>
+    <linearGradient id="silverFrame" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e9e6df"/>
+      <stop offset="50%" stop-color="#9d9891"/>
+      <stop offset="100%" stop-color="#6f6a63"/>
+    </linearGradient>
+    <linearGradient id="silverMark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f5f3ee"/>
+      <stop offset="45%" stop-color="#c7c2b9"/>
+      <stop offset="100%" stop-color="#84807a"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="84" height="84" fill="none" stroke="url(#silverFrame)" stroke-width="3"/>
+  <rect x="20" y="20" width="60" height="60" fill="none" stroke="url(#silverFrame)" stroke-width="1.5" opacity="0.5" transform="rotate(45 50 50)"/>
+  <path d="M34 30 L34 70 L66 70 M34 48 L58 48 M34 30 L62 30"
+        fill="none" stroke="url(#silverMark)" stroke-width="7" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M28 58 L44 74 L74 34" fill="none" stroke="url(#silverMark)" stroke-width="6.5"
+        stroke-linecap="square" stroke-linejoin="miter" opacity="0.92"/>
+</svg>

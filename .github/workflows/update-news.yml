@@ -1,0 +1,35 @@
+name: Atualizar notícias
+
+on:
+  schedule:
+    # A cada 6 horas
+    - cron: '0 */6 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Buscar notícias dos feeds RSS
+        run: node scripts/fetch-news.mjs
+
+      - name: Publicar alterações
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- data/news.json; then
+            echo "Nenhuma notícia nova."
+          else
+            git add data/news.json
+            git commit -m "chore: atualizar notícias"
+            git push
+          fi

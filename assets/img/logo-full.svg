@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 160" role="img" aria-labelledby="logoFullTitle">
+  <title id="logoFullTitle">Escritório Júnior Contabilidade</title>
+  <defs>
+    <linearGradient id="lfSilverFrame" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e9e6df"/>
+      <stop offset="50%" stop-color="#9d9891"/>
+      <stop offset="100%" stop-color="#6f6a63"/>
+    </linearGradient>
+    <linearGradient id="lfSilverMark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f5f3ee"/>
+      <stop offset="45%" stop-color="#c7c2b9"/>
+      <stop offset="100%" stop-color="#84807a"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(0,10)">
+    <rect x="8" y="8" width="120" height="120" fill="none" stroke="url(#lfSilverFrame)" stroke-width="3"/>
+    <rect x="26" y="26" width="84" height="84" fill="none" stroke="url(#lfSilverFrame)" stroke-width="1.5" opacity="0.5" transform="rotate(45 68 68)"/>
+    <path d="M46 42 L46 96 L92 96 M46 68 L82 68 M46 42 L86 42"
+          fill="none" stroke="url(#lfSilverMark)" stroke-width="9" stroke-linecap="square" stroke-linejoin="miter"/>
+    <path d="M38 80 L60 104 L100 50" fill="none" stroke="url(#lfSilverMark)" stroke-width="8"
+          stroke-linecap="square" stroke-linejoin="miter" opacity="0.92"/>
+  </g>
+  <text x="152" y="55" font-family="'Playfair Display', Georgia, serif" font-size="30" letter-spacing="4" fill="#f2efe9">ESCRITÓRIO</text>
+  <text x="152" y="102" font-family="'Playfair Display', Georgia, serif" font-size="46" font-weight="700" letter-spacing="2" fill="#f2efe9">JÚNIOR</text>
+  <text x="154" y="128" font-family="'Inter', Arial, sans-serif" font-size="15" letter-spacing="6" fill="#b7b3ac">CONTABILIDADE</text>
+</svg>

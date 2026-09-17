@@ -1,0 +1,9 @@
+{
+  "generatedAt": null,
+  "sources": [
+    { "id": "contabeis", "name": "Contábeis", "feedUrl": "https://www.contabeis.com.br/rss/" },
+    { "id": "valor", "name": "Valor Econômico", "feedUrl": "https://pox.globo.com/rss/valor" },
+    { "id": "bcb", "name": "Banco Central do Brasil", "feedUrl": "https://www.bcb.gov.br/api/feed/sitebcb/sitefeeds/noticias?ano=2024" }
+  ],
+  "items": []
+}

@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Notícias | Escritório Júnior Contabilidade</title>
+<meta name="description" content="Notícias contábeis, econômicas e do Banco Central do Brasil, atualizadas automaticamente a partir de fontes confiáveis do setor.">
+<link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="container">
+    <a href="index.html" class="brand">
+      <img src="assets/img/logo-mark.svg" alt="" class="brand__mark">
+      <span class="brand__text">
+        <span class="brand__title">Escritório Júnior</span>
+        <span class="brand__subtitle">CONTABILIDADE</span>
+      </span>
+    </a>
+    <nav class="nav">
+      <ul class="nav__list">
+        <li><a href="index.html">Início</a></li>
+        <li><a href="sobre.html">Sobre</a></li>
+        <li><a href="servicos.html">Serviços</a></li>
+        <li><a href="noticias.html" aria-current="page">Notícias</a></li>
+        <li><a href="contato.html">Contato</a></li>
+      </ul>
+      <a href="https://wa.me/5544997450605" target="_blank" rel="noopener" class="btn btn--primary nav__cta">Fale no WhatsApp</a>
+      <button class="nav__toggle" aria-label="Abrir menu" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+    </nav>
+  </div>
+</header>
+
+<section class="page-hero">
+  <div class="container">
+    <h1>Notícias</h1>
+    <p>Atualizações do mundo contábil, econômico e do Banco Central do Brasil.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="notice">
+      As notícias abaixo são reunidas automaticamente dos feeds RSS da
+      <a href="https://www.contabeis.com.br/" target="_blank" rel="noopener">Contábeis</a>,
+      <a href="https://valor.globo.com/" target="_blank" rel="noopener">Valor Econômico</a> e do
+      <a href="https://www.bcb.gov.br/" target="_blank" rel="noopener">Banco Central do Brasil</a>.
+      O conteúdo e a autoria de cada notícia pertencem às respectivas fontes.
+    </div>
+    <div class="news-filters" id="news-filters"></div>
+    <div class="grid grid--3" id="news-grid">
+      <p class="news-status">Carregando notícias...</p>
+    </div>
+    <p class="news-meta" id="news-meta"></p>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <img src="assets/img/logo-mark.svg" alt="" style="width:48px;height:48px;margin-bottom:16px;">
+        <p>Escritório de contabilidade em Umuarama (PR) desde 1969, com atendimento online para todo o Brasil.</p>
+        <div class="footer-social">
+          <a href="https://www.instagram.com/escritoriocontabiljunior/" target="_blank" rel="noopener" aria-label="Instagram">IG</a>
+          <a href="https://wa.me/5544997450605" target="_blank" rel="noopener" aria-label="WhatsApp">WA</a>
+          <a href="mailto:escritorio@escritoriojunior.com.br" aria-label="E-mail">@</a>
+        </div>
+      </div>
+      <div>
+        <h4>Navegação</h4>
+        <ul>
+          <li><a href="index.html">Início</a></li>
+          <li><a href="sobre.html">Sobre</a></li>
+          <li><a href="servicos.html">Serviços</a></li>
+          <li><a href="noticias.html">Notícias</a></li>
+          <li><a href="contato.html">Contato</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Serviços</h4>
+        <ul>
+          <li><a href="servicos.html">Abertura de empresas</a></li>
+          <li><a href="servicos.html">Contabilidade comercial</a></li>
+          <li><a href="servicos.html">Folha de pagamento</a></li>
+          <li><a href="servicos.html">Assessoria tributária</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Contato</h4>
+        <ul>
+          <li>Av. Ipiranga, 4310 — Zona I<br>Umuarama/PR, CEP 87501-310</li>
+          <li><a href="mailto:escritorio@escritoriojunior.com.br">escritorio@escritoriojunior.com.br</a></li>
+          <li><a href="https://wa.me/5544997450605" target="_blank" rel="noopener">(44) 99745-0605</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>&copy; <span id="year">2026</span> Escritório Júnior Contabilidade. Todos os direitos reservados.</span>
+      <span>Umuarama, Paraná</span>
+    </div>
+  </div>
+</footer>
+
+<script src="assets/js/main.js"></script>
+<script src="assets/js/news.js"></script>
+<script>
+  document.getElementById('year').textContent = new Date().getFullYear();
+  initNewsPage('#news-grid', '#news-filters', '#news-meta');
+</script>
+</body>
+</html>
