@@ -1,9 +1,150 @@
 {
-  "generatedAt": null,
+  "generatedAt": "2026-09-17T12:19:42.075Z",
   "sources": [
-    { "id": "contabeis", "name": "Contábeis", "feedUrl": "https://www.contabeis.com.br/rss/" },
-    { "id": "valor", "name": "Valor Econômico", "feedUrl": "https://pox.globo.com/rss/valor" },
-    { "id": "bcb", "name": "Banco Central do Brasil", "feedUrl": "https://www.bcb.gov.br/api/feed/sitebcb/sitefeeds/noticias?ano=2024" }
+    {
+      "id": "contabeis",
+      "name": "Contábeis",
+      "feedUrl": "https://www.contabeis.com.br/rss/"
+    },
+    {
+      "id": "valor",
+      "name": "Valor Econômico",
+      "feedUrl": "https://pox.globo.com/rss/valor"
+    },
+    {
+      "id": "bcb",
+      "name": "Banco Central do Brasil",
+      "feedUrl": "https://www.bcb.gov.br/api/feed/sitebcb/sitefeeds/noticias?ano=2024"
+    }
   ],
-  "items": []
+  "items": [
+    {
+      "title": "Dólar e juros futuros caem no pós-Copom com exterior positivo em meio ao recuo do petróleo",
+      "link": "https://valor.globo.com/financas/ao-vivo/2023/06/16/dolar-avanca-e-ibovespa-recua-em-dia-de-correcao-siga-os-mercados.ghtml",
+      "date": "2026-09-17T12:14:33.000Z",
+      "summary": "Dólar e juros futuros caem no pós-Copom com exterior positivo em meio ao recuo do petróleo Investidores repercutem decisão do Copom de reduzir a Selic e deixar a porta aberta para…",
+      "source": "valor",
+      "sourceName": "Valor Econômico"
+    },
+    {
+      "title": "Azevedo & Travassos acerta venda de controle de concessionária de água e esgoto de Alagoas por R$ 21 milhões",
+      "link": "https://valor.globo.com/empresas/noticia/2026/09/17/azevedo-and-travassos-acerta-venda-de-controle-de-concessionaria-de-agua-e-esgoto-de-alagoas-por-r-21-milhoes.ghtml",
+      "date": "2026-09-17T12:14:00.000Z",
+      "summary": "A Azevedo & Travassos Investimentos firmou, nesta quinta-feira (17), contrato para alienar a participação de controle detida pela subsidiária Aviva Ambiental na Verde Alagoas, que…",
+      "source": "valor",
+      "sourceName": "Valor Econômico"
+    },
+    {
+      "title": "União Europeia pede que China limite exportação de carros híbridos",
+      "link": "https://valor.globo.com/empresas/noticia/2026/09/17/uniao-europeia-pede-que-china-limite-exportacao-de-carros-hibridos.ghtml",
+      "date": "2026-09-17T12:10:24.000Z",
+      "summary": "A União Europeia solicitou que a China restrinja voluntariamente as exportações de veículos híbridos como parte dos esforços para conter uma guerra comercial, informou o jornal…",
+      "source": "valor",
+      "sourceName": "Valor Econômico"
+    },
+    {
+      "title": "Petrobras assina oito contratos de partilha de produção na Costa do Marfim",
+      "link": "https://valor.globo.com/empresas/noticia/2026/09/17/petrobras-assina-oito-contratos-de-partilha-de-produo-na-costa-do-marfim.ghtml",
+      "date": "2026-09-17T12:07:04.000Z",
+      "summary": "A Petrobras anunciou nesta quinta-feira (17) que assinou contratos de partilha de produção para oito blocos exploratórios localizados no litoral da Costa do Marfim.\nSegundo a…",
+      "source": "valor",
+      "sourceName": "Valor Econômico"
+    },
+    {
+      "title": "Pai de Vorcaro tenta destravar no STF recurso contra prisão preventiva",
+      "link": "https://valor.globo.com/financas/noticia/2026/09/17/pai-de-vorcaro-tenta-destravar-no-stf-recurso-contra-priso-preventiva.ghtml",
+      "date": "2026-09-17T12:05:30.000Z",
+      "summary": "A defesa de Henrique Vorcaro, pai do ex-banqueiro do Master, Daniel Vorcaro, pediu que o presidente do Supremo Tribunal Federal (STF), Edson Fachin, revogue a suspensão do…",
+      "source": "valor",
+      "sourceName": "Valor Econômico"
+    },
+    {
+      "title": "IA chinesa ainda não é poderosa o suficiente contra riscos em modelos mais avançados, diz Huawei",
+      "link": "https://valor.globo.com/empresas/noticia/2026/09/17/ia-chinesa-ainda-nao-e-poderosa-o-suficiente-contra-riscos-em-modelos-mais-avancados-diz-huawei.ghtml",
+      "date": "2026-09-17T12:05:26.000Z",
+      "summary": "Presidente rotativo da Huawei, Eric Xu, afirmou que os desenvolvedores chineses de inteligência artificial talvez ainda não estejam avançados o suficiente para enfrentar os riscos…",
+      "source": "valor",
+      "sourceName": "Valor Econômico"
+    },
+    {
+      "title": "Moradores do Iêmen fogem de barco em meio à expansão da guerra no Oriente Médio",
+      "link": "https://valor.globo.com/mundo/noticia/2026/09/17/moradores-do-imen-fogem-de-barco-em-meio-expanso-da-guerra-no-oriente-mdio.ghtml",
+      "date": "2026-09-17T12:04:01.000Z",
+      "summary": "Iemenitas recorreram a barcos no Mar Vermelho para fugir dos combates entre os houthis, apoiados pelo Irã, e forças apoiadas pela Arábia Saudita, enquanto a expansão da guerra no…",
+      "source": "valor",
+      "sourceName": "Valor Econômico"
+    },
+    {
+      "title": "LVMH assinou acordo secreto em 2002 para comprar ações de herdeiro da Hermès",
+      "link": "https://valor.globo.com/empresas/noticia/2026/09/17/lvmh-assinou-acordo-secreto-em-2002-para-comprar-acoes-de-herdeiro-da-hermes.ghtml",
+      "date": "2026-09-17T12:01:44.000Z",
+      "summary": "Documentos jurídicos analisados pela Reuters mostram que a LVMH assinou, em 2002, um acordo para comprar as ações do herdeiro da família fundadora da rival Hermès, Nicolas Puech,…",
+      "source": "valor",
+      "sourceName": "Valor Econômico"
+    },
+    {
+      "title": "Novas regras ampliam transparência sobre riscos sociais, ambientais e climáticos no Sistema Financeiro Nacional",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21257/noticia",
+      "date": "2026-09-10T21:31:39.000Z",
+      "summary": "O Banco Central (BC) aprovou um novo padrão para a divulgação de informações pelas instituições reguladas por meio do Relatório de Riscos e Oportunidades Sociais, Ambientais e…",
+      "source": "bcb",
+      "sourceName": "Banco Central do Brasil"
+    },
+    {
+      "title": "Ajustes pontuais organizam regras operacionais do Pix Automático",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21252/noticia",
+      "date": "2026-09-08T14:03:02.000Z",
+      "summary": "O Banco Central (BC) publicou, em 19/8, a Instrução Normativa BCB 769, que divulga a versão 2.10.0 do Manual de Padrões para Iniciação do Pix (MPI). O documento, que integra o…",
+      "source": "bcb",
+      "sourceName": "Banco Central do Brasil"
+    },
+    {
+      "title": "Banco Central recebe inscrições para três vagas no Programa de Estágio de Pós-Graduação em Pesquisa (PEPP) até 18 de setembro",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21237/noticia",
+      "date": "2026-08-24T15:19:33.000Z",
+      "summary": "​O Banco Central (BC) está oferecendo três vagas no Programa de Estágio de Pós-Graduação em Pesquisa (PEPP), do Departamento de Estudos e Pesquisas (Depep). Com duração inicial de…",
+      "source": "bcb",
+      "sourceName": "Banco Central do Brasil"
+    },
+    {
+      "title": "Pix consolida liderança nos pagamentos digitais e projeta novas evoluções até 2030",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21227/noticia",
+      "date": "2026-08-17T12:46:52.000Z",
+      "summary": "​O Banco Central (BC) divulgou, em 10 de agosto, o Relatório de Gestão do Pix 2023-2025​, documento que apresenta um panorama abrangente da evolução do sistema de pagamentos…",
+      "source": "bcb",
+      "sourceName": "Banco Central do Brasil"
+    },
+    {
+      "title": "BC reforça combate a fraudes com novas regras para transferências de ativos virtuais",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21224/noticia",
+      "date": "2026-08-13T15:42:03.000Z",
+      "summary": "O Banco Central (BC) aprovou um novo conjunto de medidas para fortalecer a prevenção de fraudes em operações com ativos virtuais no Brasil. A Resolução BCB 584, publicada em 7 de…",
+      "source": "bcb",
+      "sourceName": "Banco Central do Brasil"
+    },
+    {
+      "title": "FMI e Banco Mundial reconhecem avanços do sistema financeiro e apontam agenda para fortalecer supervisão",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21208/noticia",
+      "date": "2026-07-24T19:10:25.000Z",
+      "summary": "O Fundo Monetário Internacional (FMI) divulgou, nesta semana, o Financial System Stability Assessment (FSSA), relatório elaborado no âmbito do Programa de Avaliação do Setor…",
+      "source": "bcb",
+      "sourceName": "Banco Central do Brasil"
+    },
+    {
+      "title": "Pesquisa da OCDE avalia conhecimentos e hábitos financeiros dos brasileiros",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21204/noticia",
+      "date": "2026-07-23T11:50:37.000Z",
+      "summary": "Pesquisa da Organização para a Cooperação e Desenvolvimento Econômico (OCDE) avalia o letramento, a inclusão e o bem-estar financeiro. Os resultados do levantamento, iniciado em…",
+      "source": "bcb",
+      "sourceName": "Banco Central do Brasil"
+    },
+    {
+      "title": "Painel Descobrimento é cedido para exposição no Museu Nacional da China",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21203/noticia",
+      "date": "2026-07-22T20:33:35.000Z",
+      "summary": "O painel \r\n      Descobrimento, de Candido Portinari, pertencente ao acervo artístico do Banco Central do Brasil (BCB), ​foi cedido para integrar a \r\n      exposição \r\n         O…",
+      "source": "bcb",
+      "sourceName": "Banco Central do Brasil"
+    }
+  ]
 }
