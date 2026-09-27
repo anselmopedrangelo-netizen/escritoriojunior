@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T00:22:17.324Z",
+  "generatedAt": "2026-09-27T06:19:27.852Z",
   "sources": [
     {
       "id": "contabeis",
@@ -18,6 +18,14 @@
     }
   ],
   "items": [
+    {
+      "title": "Candidatos à presidência reforçam principais plataformas em  horário eleitoral",
+      "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/26/candidatos-presidncia-reforam-principais-plataformas-em-horrio-eleitoral.ghtml",
+      "date": "2026-09-27T00:47:45.000Z",
+      "summary": "Na reta final antes da eleição, os candidatos à presidência da República reforçaram suas principais plataformas na propaganda do horário eleitoral deste sábado (26). Enquanto…",
+      "source": "valor",
+      "sourceName": "Valor Econômico"
+    },
     {
       "title": "37% avaliam o Congresso Nacional como ruim ou péssimo e 18% como ótimo ou bom, diz Datafolha",
       "link": "https://valor.globo.com/noticia/2026/09/26/37-pontos-percentuais-avaliam-o-congresso-nacional-como-ruim-ou-pssimo-e-18-como-timo-ou-bom-diz-datafolha.ghtml",
@@ -71,14 +79,6 @@
       "link": "https://valor.globo.com/brasil/noticia/2026/09/26/governo-prepara-reunio-com-clubes-para-tentar-conter-revolta-no-futebol-com-fim-das-bets.ghtml",
       "date": "2026-09-26T20:33:15.000Z",
       "summary": "O governo Luiz Inácio Lula da Silva (PT) vai chamar os clubes de futebol para uma reunião na próxima semana para discutir a possibilidade de ajuda aos times, impactados com a…",
-      "source": "valor",
-      "sourceName": "Valor Econômico"
-    },
-    {
-      "title": "Buraco em pista provoca cancelamentos e atrasos de voos do aeroporto de Confins (MG)",
-      "link": "https://valor.globo.com/brasil/noticia/2026/09/26/buraco-em-pista-provoca-cancelamentos-e-atrasos-de-voos-do-aeroporto-de-confins-mg.ghtml",
-      "date": "2026-09-26T20:25:08.000Z",
-      "summary": "Um buraco na pista de pousos e decolagens no Aeroporto Internacional de Belo Horizonte, em Confins (MG), provoca cancelamento e atraso de voos neste sábado (26). Segundo o BH…",
       "source": "valor",
       "sourceName": "Valor Econômico"
     },
