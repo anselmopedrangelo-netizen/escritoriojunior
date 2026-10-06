@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T06:20:27.638Z",
+  "generatedAt": "2026-10-06T12:19:42.575Z",
   "sources": [
     {
       "id": "contabeis",
@@ -19,68 +19,76 @@
   ],
   "items": [
     {
-      "title": "Lojas de conveniência na China perdem clientes para aplicativos de entrega",
-      "link": "https://valor.globo.com/empresas/noticia/2026/10/06/lojas-de-convenincia-na-china-perdem-clientes-para-aplicativos-de-entrega.ghtml",
-      "date": "2026-10-06T05:01:04.000Z",
-      "summary": "As lojas de conveniência chinesas estão perdendo clientes de forma constante, segundo dados recentes do setor, à medida que aplicativos de entrega rápida e de baixo custo…",
+      "title": "Brasil compra mais máquinas, mas falta gente para programá-las",
+      "link": "https://valor.globo.com/patrocinado/pulse-brand/noticia/2026/10/06/brasil-compra-mais-maquinas-mas-falta-gente-para-programalas-1.ghtml",
+      "date": "2026-10-06T12:13:44.000Z",
+      "summary": "A indústria brasileira está colocando máquinas mais modernas dentro das fábricas, mas começa a enfrentar um problema menos visível e potencialmente tão importante quanto o próprio…",
       "source": "valor",
       "sourceName": "Valor Econômico"
     },
     {
-      "title": "Mitsui Fudosan construirá data center em túnel desativado no Japão",
-      "link": "https://valor.globo.com/empresas/noticia/2026/10/06/mitsui-fudosan-construir-data-center-em-tnel-desativado-no-japo.ghtml",
-      "date": "2026-10-06T04:58:20.000Z",
-      "summary": "A incorporadora imobiliária japonesa Mitsui Fudosan construirá um data center em um túnel desativado na cidade de Kobe, em uma iniciativa para revitalizar infraestruturas ociosas…",
+      "title": "Dólar e juros futuros caem com continuidade de rali eleitoral",
+      "link": "https://valor.globo.com/financas/ao-vivo/2023/06/16/dolar-avanca-e-ibovespa-recua-em-dia-de-correcao-siga-os-mercados.ghtml",
+      "date": "2026-10-06T12:11:08.000Z",
+      "summary": "Dólar e juros futuros caem com continuidade de rali eleitoral Forte valorização dos ativos na véspera, no entanto, abre espaço para realização de lucros Manhã no mercado: Forte…",
       "source": "valor",
       "sourceName": "Valor Econômico"
     },
     {
-      "title": "Maior avanço de Flávio foi nos grotões do Nordeste; Lula resiste nas cidades médias",
-      "link": "https://valor.globo.com/politica/pergunte-aos-dados/post/2026/10/maior-avanco-de-flavio-foi-nos-grotoes-do-nordeste-lula-resiste-nas-cidades-medias.ghtml",
-      "date": "2026-10-06T04:41:00.000Z",
-      "summary": "Há uma mudança importante em curso na demografia eleitoral do Brasil. O eleitorado do presidente Luiz Inácio Lula da Silva não apenas encolheu, mas está em transformação. E o da…",
+      "title": "Applied Digital vai abrir campus de IA na Finlândia em seu primeiro projeto fora dos EUA",
+      "link": "https://valor.globo.com/empresas/noticia/2026/10/06/applied-digital-vai-abrir-campus-de-ia-na-finlandia-em-seu-primeiro-projeto-fora-dos-eua.ghtml",
+      "date": "2026-10-06T12:07:24.000Z",
+      "summary": "A Applied Digital fechou um acordo para garantir até 1 gigawatt (GW) de potencial capacidade de energia na Finlândia, marcando sua primeira oportunidade de desenvolvimento fora…",
       "source": "valor",
       "sourceName": "Valor Econômico"
     },
     {
-      "title": "Honda testará recarga de veículos elétricos em movimento",
-      "link": "https://valor.globo.com/empresas/noticia/2026/10/06/honda-testar-recarga-de-veculos-eltricos-em-movimento.ghtml",
-      "date": "2026-10-06T03:18:57.000Z",
-      "summary": "A tecnologia que carrega veículos elétricos sem fio enquanto eles trafegam está se aproximando de uma aplicação prática no Japão. Uma equipe liderada pela Honda e pela empreiteira…",
+      "title": "Primeira convocação de assembleia de credores da Fictor, que tentou comprar o Master, acontece nesta terça-feira",
+      "link": "https://valor.globo.com/financas/noticia/2026/10/06/primeira-convocacao-de-assembleia-de-credores-da-fictor-que-tentou-comprar-o-master-acontece-nesta-terca-feira.ghtml",
+      "date": "2026-10-06T12:04:04.000Z",
+      "summary": "A primeira convocação da assembleia geral de credores da Fictor está marcada para começar às 14h desta terça-feira (6). Na reunião, os credores decidirão pela aprovação, rejeição…",
       "source": "valor",
       "sourceName": "Valor Econômico"
     },
     {
-      "title": "Paes acusa ‘manobra’ para eleger Ruas no 1º turno e chama Garotinho de ‘candidato laranja’",
-      "link": "https://valor.globo.com/noticia/2026/10/05/paes-acusa-manobra-para-eleger-ruas-no-1-turno-e-chama-garotinho-de-candidato-laranja.ghtml",
-      "date": "2026-10-06T02:15:27.000Z",
-      "summary": "Eduardo Paes (PSD), candidato ao governo do Rio de Janeiro, acusou os rivais Anthony Garotinho (Republicanos) e Douglas Ruas (PL) de fazerem um “jogo ensaiado” para impedir que o…",
+      "title": "Google e Constellation fecham parceria para adicionar 890 MW de energia nuclear à rede nos EUA",
+      "link": "https://valor.globo.com/empresas/noticia/2026/10/06/google-e-constellation-fecham-parceria-para-adicionar-890-mw-de-energia-nuclear-rede-nos-eua.ghtml",
+      "date": "2026-10-06T11:57:12.000Z",
+      "summary": "O Google e a Constellation Energy fecharam uma parceria para adicionar 890 megawatts (MW) de capacidade nuclear à rede elétrica da dos Estados Unidos, visando atender à crescente…",
       "source": "valor",
       "sourceName": "Valor Econômico"
     },
     {
-      "title": "Em reunião com Lula, aliados prometem reduzir abstenção e sugerem até aumento de selfies",
-      "link": "https://valor.globo.com/noticia/2026/10/05/em-reunio-com-lula-aliados-prometem-reduzir-absteno-e-sugerem-at-aumento-de-selfies.ghtml",
-      "date": "2026-10-06T01:58:10.000Z",
-      "summary": "A reunião do presidente Luiz Inácio Lula da Silva (PT) com aliados para alinhar as estratégias para o segundo turno nesta segunda-feira (5) foi marcada por sugestões de…",
+      "title": "L’Oréal contrata assessores para avaliar passivos de processos de talco nos EUA",
+      "link": "https://valor.globo.com/empresas/noticia/2026/10/06/loral-contrata-assessores-para-avaliar-passivos-de-processos-de-talco-nos-eua.ghtml",
+      "date": "2026-10-06T11:52:04.000Z",
+      "summary": "A L’Oréal contratou assessores de reestruturação financeira e jurídica para avaliar alternativas diante do aumento de seus passivos judiciais nos Estados Unidos ligados ao uso de…",
       "source": "valor",
       "sourceName": "Valor Econômico"
     },
     {
-      "title": "Nunes Marques quer julgar anulação da pena de Bolsonaro depois do segundo turno",
-      "link": "https://valor.globo.com/politica/noticia/2026/10/05/nunes-marques-quer-julgar-anulao-da-pena-de-bolsonaro-depois-do-segundo-turno.ghtml",
-      "date": "2026-10-06T01:57:07.000Z",
-      "summary": "O ministro Kassio Nunes Marques, do Supremo Tribunal Federal (STF), pretende liberar para julgamento depois do segundo turno das eleições o processo em que o ex-presidente Jair…",
+      "title": "Estudantes bloqueiam centenas de escolas em maior dia de protestos na França",
+      "link": "https://valor.globo.com/mundo/noticia/2026/10/06/estudantes-bloqueiam-centenas-de-escolas-em-maior-dia-de-protestos-na-frana.ghtml",
+      "date": "2026-10-06T11:51:10.000Z",
+      "summary": "Estudantes, professores e pais marcharam nesta terça-feira em cidades de toda a França, enquanto manifestantes bloquearam centenas de escolas, no maior dia de mobilização de uma…",
       "source": "valor",
       "sourceName": "Valor Econômico"
     },
     {
-      "title": "Ex-pesquisador da Anthropic diz que IA traz riscos que a própria indústria ainda não compreende",
-      "link": "https://valor.globo.com/mundo/noticia/2026/10/05/ex-pesquisador-da-anthropic-diz-que-ia-traz-riscos-que-a-prpria-indstria-ainda-no-compreende.ghtml",
-      "date": "2026-10-06T01:28:57.000Z",
-      "summary": "Jacob Coxon, ex-pesquisador da Anthropic, declarou nesta segunda-feira (5) que a atual corrida para desenvolver a inteligência artificial traz riscos que a própria indústria ainda…",
+      "title": "Nvidia renova máxima histórica e mira marca inédita de US$ 6 tri em valor de mercado",
+      "link": "https://valor.globo.com/empresas/noticia/2026/10/06/nvidia-renova-maxima-historica-e-mira-marca-inedita-de-us-6-tri-em-valor-de-mercado.ghtml",
+      "date": "2026-10-06T11:48:58.000Z",
+      "summary": "A Nvidia finalmente alcançou uma nova máxima histórica. Agora, a principal questão que se coloca para o mercado é quanto tempo a fabricante de semicondutores levará para se…",
       "source": "valor",
       "sourceName": "Valor Econômico"
+    },
+    {
+      "title": "BC passa a divulgar mensalmente indicadores de reajustes salariais negociados",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21280/noticia",
+      "date": "2026-10-06T10:34:47.000Z",
+      "summary": "Os reajustes salariais negociados por meio das convenções coletivas de trabalho passaram a contar com um novo conjunto de indicadores divulgados mensalmente pelo Banco Central…",
+      "source": "bcb",
+      "sourceName": "Banco Central do Brasil"
     },
     {
       "title": "BC moderniza apresentação de dados sobre intervenções cambiais",
@@ -135,14 +143,6 @@
       "link": "https://www.bcb.gov.br/detalhenoticia/21237/noticia",
       "date": "2026-08-24T15:19:33.000Z",
       "summary": "​O Banco Central (BC) está oferecendo três vagas no Programa de Estágio de Pós-Graduação em Pesquisa (PEPP), do Departamento de Estudos e Pesquisas (Depep). Com duração inicial de…",
-      "source": "bcb",
-      "sourceName": "Banco Central do Brasil"
-    },
-    {
-      "title": "Pix consolida liderança nos pagamentos digitais e projeta novas evoluções até 2030",
-      "link": "https://www.bcb.gov.br/detalhenoticia/21227/noticia",
-      "date": "2026-08-17T12:46:52.000Z",
-      "summary": "​O Banco Central (BC) divulgou, em 10 de agosto, o Relatório de Gestão do Pix 2023-2025​, documento que apresenta um panorama abrangente da evolução do sistema de pagamentos…",
       "source": "bcb",
       "sourceName": "Banco Central do Brasil"
     }
