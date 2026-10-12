@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T00:26:05.484Z",
+  "generatedAt": "2026-10-12T06:25:04.431Z",
   "sources": [
     {
       "id": "contabeis",
@@ -18,6 +18,46 @@
     }
   ],
   "items": [
+    {
+      "title": "Coreia do Norte lança vários mísseis balísticos, diz Coreia do Sul",
+      "link": "https://valor.globo.com/mundo/noticia/2026/10/12/coreia-do-norte-lana-vrios-msseis-balsticos-diz-coreia-do-sul.ghtml",
+      "date": "2026-10-12T06:07:00.000Z",
+      "summary": "A Coreia do Norte disparou vários mísseis balísticos em direção ao mar, na costa leste do país, nesta segunda-feira, informaram as forças armadas da Coreia do Sul, em mais um…",
+      "source": "valor",
+      "sourceName": "Valor Econômico"
+    },
+    {
+      "title": "Paquistão suspende governo provincial liderado por aliados de ex-primeiro-ministro preso",
+      "link": "https://valor.globo.com/mundo/noticia/2026/10/12/paquisto-suspende-governo-provincial-liderado-por-aliados-de-ex-primeiro-ministro-preso.ghtml",
+      "date": "2026-10-12T06:05:31.000Z",
+      "summary": "O Paquistão suspendeu, no domingo, o governo provincial de Khyber Pakhtunkhwa, no norte do país, em meio a uma grande marcha de protesto liderada pelo Pakistan Tehreek-e-Insaf…",
+      "source": "valor",
+      "sourceName": "Valor Econômico"
+    },
+    {
+      "title": "Reunião do FMI na Tailândia terá inflação, IA e clima no centro das discussões",
+      "link": "https://valor.globo.com/financas/noticia/2026/10/12/reunio-do-fmi-na-tailndia-ter-inflao-ia-e-clima-no-centro-das-discusses.ghtml",
+      "date": "2026-10-12T06:04:08.000Z",
+      "summary": "Autoridades financeiras e dirigentes de bancos centrais de todo o mundo se reunirão em Bangcoc, capital da Tailândia, nesta semana para a reunião anual do Fundo Monetário…",
+      "source": "valor",
+      "sourceName": "Valor Econômico"
+    },
+    {
+      "title": "Veja o que abre e fecha no feriado de 12 de outubro em São Paulo",
+      "link": "https://valor.globo.com/brasil/noticia/2026/10/12/veja-o-que-abre-e-fecha-no-feriado-de-12-de-outubro-em-sao-paulo.ghtml",
+      "date": "2026-10-12T03:00:00.000Z",
+      "summary": "No dia 12 de outubro, o Brasil comemora o dia de Nossa Senhora Aparecida, a padroeira do país. A data é um feriado nacional e, com isso, o horário de funcionamento de diversos…",
+      "source": "valor",
+      "sourceName": "Valor Econômico"
+    },
+    {
+      "title": "FAB envia aviões para ajudar no combate a queimadas no Amazonas",
+      "link": "https://valor.globo.com/brasil/noticia/2026/10/11/fab-envia-avies-para-ajudar-no-combate-a-queimadas-no-amazonas.ghtml",
+      "date": "2026-10-12T02:41:05.000Z",
+      "summary": "A FAB (Força Aérea Brasileira) vai enviar dois aviões para ajudar no combate aos incêndios florestais que atingem as regiões de Manaus, Itacoatiara e Parintins, no estado do…",
+      "source": "valor",
+      "sourceName": "Valor Econômico"
+    },
     {
       "title": "Incêndios no Amazonas são criminosos e visam futuro desmatamento, diz ministro",
       "link": "https://valor.globo.com/brasil/noticia/2026/10/11/incndios-no-amazonas-so-criminosos-e-visam-futuro-desmatamento-diz-ministro.ghtml",
@@ -39,46 +79,6 @@
       "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/11/lula-acusa-flvio-de-mentir-sobre-propostas-econmicas.ghtml",
       "date": "2026-10-11T22:15:17.000Z",
       "summary": "O presidente Luiz Inácio Lula da Silva (PT) acusou o senador Flávio Bolsonaro (PL) de mentir sobre propostas econômicas e afirmou que um eventual governo do adversário poderá…",
-      "source": "valor",
-      "sourceName": "Valor Econômico"
-    },
-    {
-      "title": "Aplicativos avançam sobre compra de reposição de alimentos e higiene e desafiam frequência nos supermercados",
-      "link": "https://valor.globo.com/empresas/noticia/2026/10/11/aplicativos-avanam-sobre-compra-de-reposio-de-alimentos-e-higiene-e-desafiam-frequncia-nos-supermercados.ghtml",
-      "date": "2026-10-11T22:07:05.000Z",
-      "summary": "Os aplicativos começam a disputar com os supermercados as compras de reposição, que sustentam parte relevante da frequência do consumidor às lojas físicas. A migração pode reduzir…",
-      "source": "valor",
-      "sourceName": "Valor Econômico"
-    },
-    {
-      "title": "Campanha de Flávio Bolsonaro pede investigação de diretor da PF por entrevista no primeiro turno",
-      "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/11/campanha-de-flavio-bolsonaro-pede-investigacao-de-diretor-da-pf-por-entrevista-no-primeiro-turno.ghtml",
-      "date": "2026-10-11T21:15:08.000Z",
-      "summary": "A campanha de Flávio Bolsonaro (PL) apresentou neste domingo (11) ao Tribunal Superior Eleitoral (TSE) uma noticia-crime contra o diretor-geral da Policia Federal, Andrei…",
-      "source": "valor",
-      "sourceName": "Valor Econômico"
-    },
-    {
-      "title": "Flávio diz que sofreu 'pré-julgamento' por pedido de dinheiro a Vorcaro para filme sobre Bolsonaro",
-      "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/11/flvio-diz-que-sofreu-pr-julgamento-por-pedido-de-dinheiro-a-vorcaro-para-filme-sobre-bolsonaro.ghtml",
-      "date": "2026-10-11T20:29:59.000Z",
-      "summary": "O candidato à Presidência pelo PL, Flávio Bolsonaro, disse a apoiadores neste domingo (11) que sofreu \"pré-julgamento\" após a revelação dos pedidos de dinheiro ao ex-banqueiro…",
-      "source": "valor",
-      "sourceName": "Valor Econômico"
-    },
-    {
-      "title": "TSE abre investigação sobre Marçal e site que oferecia criptomoedas para promover campanha de Flávio",
-      "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/11/tse-abre-acao-para-investigar-atuacao-de-pablo-marcal-na-campanha-de-flavio-bolsonaro.ghtml",
-      "date": "2026-10-11T20:08:24.000Z",
-      "summary": "O ministro do Tribunal Superior Eleitoral (TSE) Ricardo Villas Bôas Cueva mandou abrir uma investigação para apurar suposta divulgação de fake news pelo influenciador Pablo Marçal…",
-      "source": "valor",
-      "sourceName": "Valor Econômico"
-    },
-    {
-      "title": "Campanha de Lula não autorizou drones de entidades para calcular estimativa de público na Paulista",
-      "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/11/campanha-de-lula-nao-autorizou-drones-para-calcular-estimativa-de-publico-na-paulista.ghtml",
-      "date": "2026-10-11T20:03:19.000Z",
-      "summary": "O Monitor do Debate Político no Meio Digital (USP/Cebrap) e a More in Common Brasil afirmaram que não divulgaram estimativa de público do ato em apoio à reeleição do presidente…",
       "source": "valor",
       "sourceName": "Valor Econômico"
     },
