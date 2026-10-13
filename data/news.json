@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T12:23:35.162Z",
+  "generatedAt": "2026-10-13T18:22:54.551Z",
   "sources": [
     {
       "id": "contabeis",
@@ -19,66 +19,66 @@
   ],
   "items": [
     {
-      "title": "Dólar e juros futuros iniciam sessão em alta de olho na corrida eleitoral",
+      "title": "Google lança modelo de IA de ponta Gemini 4 Argon para desenvolvedores e empresas",
+      "link": "https://valor.globo.com/empresas/noticia/2026/10/13/google-lana-modelo-de-ia-de-ponta-gemini-4-argon-para-desenvolvedores-e-empresas.ghtml",
+      "date": "2026-10-13T18:16:25.000Z",
+      "summary": "O Google anunciou, nesta terça-feira (13), seu principal modelo de inteligência artificial, o Gemini 4 Argon, para desenvolvedores e empresas em todo o mundo, buscando recuperar…",
+      "source": "valor",
+      "sourceName": "Valor Econômico"
+    },
+    {
+      "title": "Startup curitibana NNYAGENCY registra 59 milhões de votos",
+      "link": "https://valor.globo.com/patrocinado/dino/noticia/2026/10/13/startup-curitibana-nnyagency-registra-59-milhoes-de-votos-1.ghtml",
+      "date": "2026-10-13T18:15:42.000Z",
+      "summary": "A startup de Curitiba NNYAGENCY atuou em campanhas eleitorais que, somadas, envolveram mais de 59 milhões de votos em 14 estados brasileiros, demonstrando a capacidade de aplicar…",
+      "source": "valor",
+      "sourceName": "Valor Econômico"
+    },
+    {
+      "title": "Ibovespa cai 1% e dólar e juros futuros sobem com eleição no foco dos investidores",
       "link": "https://valor.globo.com/financas/ao-vivo/2023/06/16/dolar-avanca-e-ibovespa-recua-em-dia-de-correcao-siga-os-mercados.ghtml",
-      "date": "2026-10-13T12:15:22.000Z",
-      "summary": "Dólar e juros futuros iniciam sessão em alta de olho na corrida eleitoral Futuros de NY operam sem direção única, enquanto rendimentos dos Treasuries e dólar ante pares fortes…",
+      "date": "2026-10-13T18:05:04.000Z",
+      "summary": "Ibovespa cai 1% e dólar e juros futuros sobem com eleição no foco dos investidores Recuperação do presidente Luiz Inácio Lula da Silva (PT) em algumas pesquisas de intenção de…",
       "source": "valor",
       "sourceName": "Valor Econômico"
     },
     {
-      "title": "Fertilizantes: a dependência que ameaça a competitividade da agricultura brasileira",
-      "link": "https://valor.globo.com/opiniao/artigo/fertilizantes-a-dependencia-que-ameaca-a-competitividade-da-agricultura-brasileira.ghtml",
-      "date": "2026-10-13T12:09:51.000Z",
-      "summary": "Desconhecido pela maioria dos brasileiros, o Dia Internacional dos Fertilizantes é celebrado hoje. Apesar da pouca atratividade da data, o tema merece atenção por ocupar um lugar…",
+      "title": "STJ: Credor trabalhista tem legitimidade para propor ação declaratória de insolvência civil",
+      "link": "https://valor.globo.com/legislacao/noticia/2026/10/13/stj-credor-trabalhista-tem-legitimidade-para-propor-acao-declaratoria-de-insolvencia-civil.ghtml",
+      "date": "2026-10-13T18:03:10.000Z",
+      "summary": "A 3ª Turma do Superior Tribunal de Justiça (STJ) decidiu, por unanimidade, que o credor trabalhista tem legitimidade para propor a ação declaratória de insolvência civil do…",
       "source": "valor",
       "sourceName": "Valor Econômico"
     },
     {
-      "title": "Johnson & Johnson avalia cisão de negócios de implantes de quadril e joelho",
-      "link": "https://valor.globo.com/empresas/noticia/2026/10/13/johnson-and-johnson-avalia-cisao-de-negocios-de-implantes-de-quadril-e-joelho.ghtml",
-      "date": "2026-10-13T12:04:43.000Z",
-      "summary": "A Johnson & Johnson está inclinada a realizar uma cisão de sua divisão de implantes de quadril e joelho, negócio que a companhia busca desmembrar, afirmou o diretor financeiro,…",
+      "title": "Atech, Editora Globo, Ford, JBS, Pirelli e Smart Fit abrem programas de estágio",
+      "link": "https://valor.globo.com/carreira/empregos-oportunidades/post/2026/10/atech-editora-globo-ford-jbs-pirelli-e-smart-fit-abrem-programas-de-estagio.ghtml",
+      "date": "2026-10-13T18:02:37.000Z",
+      "summary": "Atech, Editora Globo e Sistema Globo de Rádio, Ford, JBS, Pirelli e Smart Fit estão com inscrições abertas para seus programas de estágio. As vagas contemplam áreas como…",
       "source": "valor",
       "sourceName": "Valor Econômico"
     },
     {
-      "title": "Aeroporto da capital da Arábia Saudita ficará fechado até sábado após ataques dos houthis",
-      "link": "https://valor.globo.com/mundo/noticia/2026/10/13/aeroporto-da-capital-da-arbia-saudita-ficar-fechado-at-sbado-aps-ataques-dos-houthis.ghtml",
-      "date": "2026-10-13T12:03:45.000Z",
-      "summary": "As autoridades sauditas prorrogaram até sábado (17) o fechamento do aeroporto internacional de Riad, e companhias aéreas cancelaram voos após sucessivos ataques dos houthis do…",
+      "title": "The Best Coffee amplia suporte 360o a franqueados",
+      "link": "https://valor.globo.com/patrocinado/dino/noticia/2026/10/13/the-best-coffee-amplia-suporte-360o-a-franqueados-1.ghtml",
+      "date": "2026-10-13T17:56:02.000Z",
+      "summary": "A The Best Coffee, rede de franquias que reúne cafeteria, empório e espaço de presentes em um mesmo ponto de venda, ampliou a estrutura de apoio oferecida aos franqueados com um…",
       "source": "valor",
       "sourceName": "Valor Econômico"
     },
     {
-      "title": "Com robô que pega elevador, TKE investe em centro para novas tecnologias",
-      "link": "https://valor.globo.com/empresas/noticia/2026/10/13/com-robo-que-pega-elevador-tke-investe-em-centro-para-novas-tecnologias.ghtml",
-      "date": "2026-10-13T12:00:00.000Z",
-      "summary": "Às vésperas de uma integração global com uma concorrente, a  fabricante de elevadores e esteiras rolantes TKE está apostando em inovações tecnológicas para manter seu crescimento,…",
+      "title": "Ouro recua com expectativa por dados de inflação dos EUA",
+      "link": "https://valor.globo.com/financas/noticia/2026/10/13/ouro-recua-com-expectativa-por-dados-de-inflacao-dos-eua.ghtml",
+      "date": "2026-10-13T17:54:37.000Z",
+      "summary": "Os preços dos contratos futuros do ouro fecharam em queda, pressionados pela perspectiva de custos de empréstimo mais altos, reduzindo a atratividade do metal, que não oferece…",
       "source": "valor",
       "sourceName": "Valor Econômico"
     },
     {
-      "title": "Melrose Industries fecha acordo para encerrar processo envolvendo a GKN Aerospace",
-      "link": "https://valor.globo.com/empresas/noticia/2026/10/13/melrose-industries-fecha-acordo-para-encerrar-processo-envolvendo-a-gkn-aerospace.ghtml",
-      "date": "2026-10-13T11:53:19.000Z",
-      "summary": "A Melrose Industries anunciou que sua unidade GKN Aerospace fechou um acordo de US$ 125 milhões com autoridades da Califórnia referente a um processo ambiental e químico,…",
-      "source": "valor",
-      "sourceName": "Valor Econômico"
-    },
-    {
-      "title": "Volkswagen e Stellantis demonstram confiança em veículos elétricos e buscam aprender com a China",
-      "link": "https://valor.globo.com/empresas/noticia/2026/10/13/volkswagen-e-stellantis-demonstram-confiana-em-veculos-eltricos-e-buscam-aprender-com-a-china.ghtml",
-      "date": "2026-10-13T11:48:30.000Z",
-      "summary": "As duas gigantes da indústria automobilística europeia, Volkswagen e Stellantis, aproveitaram o Salão do Automóvel de Paris deste ano para demonstrar uma confiança crescente em…",
-      "source": "valor",
-      "sourceName": "Valor Econômico"
-    },
-    {
-      "title": "CSG aposta no setor espacial com investimento de US$ 434 milhões na MDA Space",
-      "link": "https://valor.globo.com/empresas/noticia/2026/10/13/csg-aposta-no-setor-espacial-com-investimento-de-us-434-milhoes-na-mda-space.ghtml",
-      "date": "2026-10-13T11:45:22.000Z",
-      "summary": "A fabricante de armamentos tcheca Czechoslovak Group (CSG) tornou-se a maior acionista da canadense MDA Space ao comprar uma participação de 9,5% na companhia de tecnologia…",
+      "title": "Aposta em IA impulsionou o mercado, mas ainda não é hora de abandonar grandes vencedoras",
+      "link": "https://valor.globo.com/empresas/noticia/2026/10/13/aposta-em-ia-impulsionou-o-mercado-mas-ainda-nao-e-hora-de-abandonar-grandes-vencedoras.ghtml",
+      "date": "2026-10-13T17:52:44.000Z",
+      "summary": "As ações ligadas à inteligência artificial têm sido o principal combustível do momento atual de alta do mercado, que acaba de completar quatro anos. As expectativas de resultados…",
       "source": "valor",
       "sourceName": "Valor Econômico"
     },
