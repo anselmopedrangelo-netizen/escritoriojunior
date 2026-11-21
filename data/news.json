@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T23:51:39.983Z",
+  "generatedAt": "2026-11-21T06:32:05.872Z",
   "sources": [
     {
       "id": "contabeis",
@@ -18,6 +18,22 @@
     }
   ],
   "items": [
+    {
+      "title": "Banco de dados de informações criminais do FBI sofre invasão, relata a CNN",
+      "link": "https://valor.globo.com/mundo/noticia/2026/11/21/banco-de-dados-de-informaes-criminais-do-fbi-sofre-invaso-relata-a-cnn.ghtml",
+      "date": "2026-11-21T03:47:32.000Z",
+      "summary": "O FBI está investigando uma suposta invasão a um banco de dados de abrangência nacional, utilizado por agências de aplicação da lei federais, estaduais e locais para compartilhar…",
+      "source": "valor",
+      "sourceName": "Valor Econômico"
+    },
+    {
+      "title": "Terremoto de magnitude 6,8 atinge o Peru sem relatos imediatos de danos",
+      "link": "https://valor.globo.com/mundo/noticia/2026/11/20/terremoto-de-magnitude-68-atinge-o-peru-sem-relatos-imediatos-de-danos.ghtml",
+      "date": "2026-11-21T01:28:05.000Z",
+      "summary": "Um terremoto de magnitude 6,8 atingiu a região central do Peru nesta sexta-feira, segundo o Centro Alemão de Pesquisa em Geociências, levando moradores da capital, Lima, às ruas,…",
+      "source": "valor",
+      "sourceName": "Valor Econômico"
+    },
     {
       "title": "Trump diz ter exigido que Filipinas troque produtos agrícolas do Brasil pelos dos EUA",
       "link": "https://valor.globo.com/mundo/noticia/2026/11/20/trump-diz-ter-exigido-que-filipinas-troque-produtos-agrcolas-do-brasil-pelos-dos-eua.ghtml",
@@ -63,22 +79,6 @@
       "link": "https://valor.globo.com/empresas/noticia/2026/11/20/aes-da-anthropic-recuam-850-pontos-percentuais-no-segundo-dia-de-negociaes-na-nasdaq.ghtml",
       "date": "2026-11-20T21:16:00.000Z",
       "summary": "As ações da Anthropic fecharam em queda de 8,50%, a US$ 88,91, em seu segundo dia de negociações na Nasdaq, em Nova York.\n\nA gigante de tecnologia precificou sua oferta de ações…",
-      "source": "valor",
-      "sourceName": "Valor Econômico"
-    },
-    {
-      "title": "Evento da Bradesco Seguros aborda como viver mais e melhor",
-      "link": "https://valor.globo.com/patrocinado/dino/noticia/2026/11/20/evento-da-bradesco-seguros-aborda-como-viver-mais-e-melhor-1.ghtml",
-      "date": "2026-11-20T21:06:07.000Z",
-      "summary": "O Grupo Bradesco Seguros realizou, na última terça-feira (17), a 19ª edição do Fórum da Longevidade, no Teatro Bradesco, em São Paulo. Com o tema \"Novos Horizontes\", o evento…",
-      "source": "valor",
-      "sourceName": "Valor Econômico"
-    },
-    {
-      "title": "Bolsonaro tem suspeita de 'obstrução quase total' do intestino, diz médico",
-      "link": "https://valor.globo.com/politica/noticia/2026/11/20/bolsonaro-sente-forte-dores-abdominais-e-encaminhado-ao-hospital.ghtml",
-      "date": "2026-11-20T20:53:31.000Z",
-      "summary": "O médico de Jair Bolsonaro, Brasil Caiado, afirmou que o ex-presidente tem suspeita de \"obstrução quase total\" do intestino delgado após passar por exames no hospital DF Star…",
       "source": "valor",
       "sourceName": "Valor Econômico"
     },
