@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T18:56:29.343Z",
+  "generatedAt": "2026-11-22T05:59:51.166Z",
   "sources": [
     {
       "id": "contabeis",
@@ -19,6 +19,54 @@
   ],
   "items": [
     {
+      "title": "Michelle chega a Brasília para visitar Bolsonaro no hospital",
+      "link": "https://valor.globo.com/politica/noticia/2026/11/21/michelle-chega-a-braslia-para-visitar-bolsonaro-no-hospital.ghtml",
+      "date": "2026-11-22T01:39:12.000Z",
+      "summary": "A ex-primeira-dama e senadora eleita pelo DF Michelle Bolsonaro (PL) chegou a Brasília e seguiu para o hospital particular onde o ex-presidente Jair Bolsonaro (PL) está internado…",
+      "source": "valor",
+      "sourceName": "Valor Econômico"
+    },
+    {
+      "title": "Morre Joe Wallach, executivo que ajudou a estruturar a TV Globo e criou a Telemundo, aos 103 anos",
+      "link": "https://valor.globo.com/brasil/noticia/2026/11/21/morre-joe-wallach-executivo-que-ajudou-a-estruturar-a-tv-globo-e-criou-a-telemundo-aos-103-anos.ghtml",
+      "date": "2026-11-22T00:38:55.000Z",
+      "summary": "Joe Wallach, um dos principais executivos dos primeiros anos da TV Globo e personagem decisivo na história da televisão brasileira, morreu na última sexta-feira, em Los Angeles,…",
+      "source": "valor",
+      "sourceName": "Valor Econômico"
+    },
+    {
+      "title": "Desigualdade racial limita participação de negros e indígenas na ciência e na inovação",
+      "link": "https://valor.globo.com/brasil/noticia/2026/11/21/desigualdade-racial-limita-participacao-de-negros-e-indigenas-na-ciencia-e-na-inovacao.ghtml",
+      "date": "2026-11-21T23:50:21.000Z",
+      "summary": "A população negra ainda tem participação reduzida na pesquisa científica e no setor de inovação no Brasil, apesar de representar mais da metade dos brasileiros. A desigualdade…",
+      "source": "valor",
+      "sourceName": "Valor Econômico"
+    },
+    {
+      "title": "Sobe para 5 o número de mortos em temporal no RS; Estado tem 20 mil desalojados",
+      "link": "https://valor.globo.com/brasil/noticia/2026/11/21/sobe-para-4-o-nmero-de-mortos-em-temporal-no-rs-estado-tem-20-mil-desalojados.ghtml",
+      "date": "2026-11-21T21:54:21.000Z",
+      "summary": "Subiu para cinco o número de mortos pelo temporal que atingiu a cidade de Tupanciretã (RS) na madrugada de sexta-feira. \n\nAs tempestades que atingem o Rio Grande do Sul desde…",
+      "source": "valor",
+      "sourceName": "Valor Econômico"
+    },
+    {
+      "title": "COP31 vive impasse e corre o risco de não terminar",
+      "link": "https://valor.globo.com/mundo/noticia/2026/11/21/cop31-vive-impasse-e-corre-o-risco-de-no-terminar.ghtml",
+      "date": "2026-11-21T19:07:09.000Z",
+      "summary": "A COP31 corre o risco de não terminar. A conferência das Nações Unidas sobre Mudança do Clima que acontece há duas semanas está atrasada 24 horas da previsão de término e sem boas…",
+      "source": "valor",
+      "sourceName": "Valor Econômico"
+    },
+    {
+      "title": "FT: Os vínculos de Alice Huang com o submundo do contrabando de chips",
+      "link": "https://valor.globo.com/empresas/noticia/2026/11/21/ft-os-vnculos-de-alice-huang-com-o-submundo-do-contrabando-de-chips.ghtml",
+      "date": "2026-11-21T18:53:16.000Z",
+      "summary": "A empresária chinesa Alice Huang, que supostamente teria um relacionamento amoroso com o CEO da Nvidia, Jensen Huang, tinha ligações com uma rede de fornecimento de chips de…",
+      "source": "valor",
+      "sourceName": "Valor Econômico"
+    },
+    {
       "title": "Trump diz que trabalhará com Democratas para limitar juros do cartão de crédito",
       "link": "https://valor.globo.com/mundo/noticia/2026/11/21/trump-diz-que-trabalhara-com-democratas-para-limitar-juros-do-cartao-de-credito.ghtml",
       "date": "2026-11-21T18:28:13.000Z",
@@ -31,54 +79,6 @@
       "link": "https://valor.globo.com/mundo/noticia/2026/11/21/cargueiro-russo-pega-fogo-aps-ataque-de-drones-no-bltico-e-finlndia-aumenta-segurana.ghtml",
       "date": "2026-11-21T17:30:29.000Z",
       "summary": "Um navio cargueiro russo pegou fogo após ser atingido por drones no Mar Báltico neste sábado (21) e, posteriormente, derivou para águas territoriais da Finlândia, levando…",
-      "source": "valor",
-      "sourceName": "Valor Econômico"
-    },
-    {
-      "title": "Diagnosticado com obstrução intestinal, Bolsonaro permanece na UTI sem previsão de alta",
-      "link": "https://valor.globo.com/politica/noticia/2026/11/21/diagnosticado-com-obstruo-intestinal-bolsonaro-permanece-na-uti-sem-previso-de-alta.ghtml",
-      "date": "2026-11-21T17:19:49.000Z",
-      "summary": "O ex-presidente Jair Bolsonaro permanece internado na unidade de terapia intensiva (UTI) do hospital DF Star, em Brasília. Ele deu entrada na internação na última sexta-feira (20)…",
-      "source": "valor",
-      "sourceName": "Valor Econômico"
-    },
-    {
-      "title": "Moraes autoriza visitas de filhos de Bolsonaro ao hospital, mas veda celular",
-      "link": "https://valor.globo.com/politica/noticia/2026/11/21/moraes-autoriza-visitas-de-filhos-de-bolsonaro-ao-hospital-mas-veda-celular.ghtml",
-      "date": "2026-11-21T16:44:16.000Z",
-      "summary": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), autorizou neste sábado (21) que três filhos do ex-presidente Jair Bolsonaro e sua enteada possam visitá-los…",
-      "source": "valor",
-      "sourceName": "Valor Econômico"
-    },
-    {
-      "title": "Irã recebe delegação do Catar em busca de saída diplomática para conflito, enquanto EUA negam ataque a caça F-16",
-      "link": "https://valor.globo.com/mundo/noticia/2026/11/21/ir-recebe-delegao-do-catar-em-busca-de-sada-diplomtica-para-conflito-enquanto-eua-negam-ataque-a-caa-f-16.ghtml",
-      "date": "2026-11-21T16:24:13.000Z",
-      "summary": "Uma delegação do Catar manteve conversações em Teerã na noite desta sexta-feira (20), em meio aos esforços diplomáticos para encerrar a guerra desencadeada pelos ataques dos…",
-      "source": "valor",
-      "sourceName": "Valor Econômico"
-    },
-    {
-      "title": "Lula diz que avalia ampliar o papel do Ministério dos Povos Indígenas no próximo mandato",
-      "link": "https://valor.globo.com/politica/noticia/2026/11/21/lula-diz-que-avalia-ampliar-o-papel-do-ministrio-dos-povos-indgenas-no-prximo-mandato.ghtml",
-      "date": "2026-11-21T16:03:55.000Z",
-      "summary": "Cobrado por acelerar a demarcação de terras, o presidente, Luiz Inácio Lula da Silva (PT), diz que avalia dar uma “finalidade mais importante” para o Ministério dos Povos…",
-      "source": "valor",
-      "sourceName": "Valor Econômico"
-    },
-    {
-      "title": "Presidente da Telefónica reposiciona companhia para era de soberania tecnológica na Europa",
-      "link": "https://valor.globo.com/empresas/noticia/2026/11/21/presidente-da-telefnica-reposiciona-companhia-para-era-de-soberania-tecnolgica-na-europa.ghtml",
-      "date": "2026-11-21T16:01:21.000Z",
-      "summary": "Após anos longe dos holofotes do mercado, as empresas de telecomunicações vivem seu momento de destaque. O avanço da inteligência artificial, aliado a profundas mudanças…",
-      "source": "valor",
-      "sourceName": "Valor Econômico"
-    },
-    {
-      "title": "Lula diz que pretende repetir formato de 2023 e receber a faixa presidencial de representantes da sociedade",
-      "link": "https://valor.globo.com/politica/noticia/2026/11/21/lula-diz-que-pretende-repetir-formato-de-2023-e-receber-a-faixa-presidencial-de-representantes-da-sociedade.ghtml",
-      "date": "2026-11-21T15:43:46.000Z",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT) disse que pretende repetir o modelo da passagem de faixa de 2023 e afirmou que quem passará a faixa presidencial será “o povo…",
       "source": "valor",
       "sourceName": "Valor Econômico"
     },
